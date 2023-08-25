@@ -133,7 +133,7 @@
                 <span class="text-muted">Usuários:</span>
                 <ul class="c-n-ul">
                     <li>
-                        <a href="#" class="c-n-item" target="centro">
+                        <a href="" class="c-n-item" target="centro">
                             <figure>
                                 <i class="fa-solid fa-square-plus fa-2xs">&nbsp;</i>
                             </figure>
@@ -141,7 +141,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#" class="c-n-item" target="centro">
+                        <a href="" class="c-n-item" target="centro">
                             <figure>
                                 <i class="fa-solid fa-address-book fa-2xs">&nbsp;</i>
                             </figure>
@@ -149,7 +149,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#" class="c-n-item" target="centro">
+                        <a href="" class="c-n-item" target="centro">
                             <figure>
                                 <i class="fa-solid fa-pen fa-2xs">&nbsp;</i>
                             </figure>
@@ -157,7 +157,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#" class="c-n-item" target="centro">
+                        <a href="" class="c-n-item" target="centro">
                             <figure>
                                 <i class="fa-solid fa-trash fa-2xs">&nbsp;</i>
                             </figure>
@@ -165,13 +165,64 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#" class="c-n-item" target="centro">
+                        <a href="" class="c-n-item" target="centro">
                             <figure>
                                 <i class="fa-solid fa-list fa-2xs">&nbsp;</i>
                             </figure>
                             <span>Listagem</span>
                         </a>
                     </li>
+                </ul>
+                <span class="text-muted">Sistema:</span>
+                <ul class="c-n-ul">
+                    <li>
+                        <a href="./JSPs/inicial.jsp" class="c-n-item" target="centro">
+                            <figure>
+                                <i class="fa-solid fa-home fa-2xs">&nbsp;</i>
+                            </figure>
+                            <span>Home</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="./JSPs/about.jsp" class="c-n-item" target="centro">
+                            <figure>
+                                <i class="fa-solid fa-comment fa-2xs">&nbsp;</i>
+                            </figure>
+                            <span>Sobre</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="./JSPs/contact.jsp" class="c-n-item" target="centro">
+                            <figure>
+                                <i class="fa-solid fa-mobile-button fa-2xs">&nbsp;</i>
+                            </figure>
+                            <span>Contato</span>
+                        </a>
+                    </li>
+                    <li>
+                    <a a href="#" class="c-n-item">
+                        <figure>
+                            <i class="fa-solid fa-briefcase fa-2xs">&nbsp;</i>
+                        </figure>
+                        <span>Serviços</span>
+                    </a>
+                </li>
+                <li>
+                    <a a href="#" class="c-n-item">
+                        <figure>
+                            <i class="fa-solid fa-coins fa-2xs">&nbsp;</i>
+                        </figure>
+                        <span>Preço</span>
+                    </a>
+                </li>
+                <li>
+                    <a a href="#" class="c-n-item">
+                        <figure>
+                            <i class="fa-solid fa-building fa-2xs">&nbsp;</i>
+                        </figure>
+                        <span>Carreira</span>
+                    </a>
+                </li>
                 </ul>
             </nav>
             <main class="c-main">
